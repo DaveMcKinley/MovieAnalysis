@@ -15,7 +15,7 @@ As we synthesize our data and analysis. We look at the profitably of genres and 
 ### 5.  Findings and Visualizations
 Firstly, our analysis on which movie genres to gain the most profit, led us to the conclusion that Horror, Animation, and Drama were the best to put your money into. Although unnecessary, we decided that the inclusion of some popular movies in these genres might help give you more of an understanding when deciding what kind of films you may wish to create. Here it can be easily deduced that Horror animation and drama are at the highest average profit margin percentage.
 
-
+![](images
 
 
 Rated g/pg and rated r were the most profitable. Reasons why, include how rated g/pg offers more to the general audience and can have more people such as a whole family come to view the movie. This would overall be more profitable for the movie itself. Also for rated r, it’s diversity in movies not allowed to be shown to children under 17 creates excitement in something new and makes itself popular to adults already and teenagers who haven’t been exposed to those kinds of movies. We have our bar chart to show how rated g and pg are the highest with rated r right after. We decided to combine our g/pg as one due to their related children animated movies. 
